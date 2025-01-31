@@ -10,7 +10,7 @@ The analysis requires the following Python packages:
 - plotly.express
 
 ## Data
-The analysis uses the `seoul_bike_data_renamed.csv` dataset containing the following information:
+The analysis uses the `bike_data_renamed.csv` dataset containing the following information:
 - Rental dates and times
 - Number of rented bikes
 - Weather conditions (temperature, humidity, etc.)
@@ -47,7 +47,7 @@ Investigation of:
 .
 ├── README.md
 ├── data/
-│   └── seoul_bike_data_renamed.csv
+│   └── bike_data_renamed.csv
 └── notebooks/
     └── notebook_template.ipynb
 ```
@@ -56,7 +56,7 @@ Investigation of:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/seoul-bike-rental-analysis.git
+git clone https://github.com/horizonhnk/bike-rental-analysis.git
 ```
 
 2. Install required packages:
