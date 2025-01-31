@@ -76,4 +76,4 @@ Feel free to fork this repository and submit pull requests for any improvements.
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
-> **Note**: Make sure you have the dataset `seoul_bike_data_renamed.csv` in the `data/` directory before running the analysis.
+> **Note**: Make sure you have the dataset `bike_data_renamed.csv` in the `data/` directory before running the analysis.
