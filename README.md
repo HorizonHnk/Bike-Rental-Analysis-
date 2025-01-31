@@ -1,4 +1,4 @@
-# Python Bike Rental Analysis 🚲
+# jupyter Bike Rental Analysis 🚲
 
 ## Overview
 This repository contains a Jupyter notebook for analyzing Seoul's bike-sharing system data. The analysis explores rental patterns, weather impacts, and seasonal trends in bike usage.
